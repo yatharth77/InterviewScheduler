@@ -1,0 +1,60 @@
+I, [2020-05-28T02:48:18.930585 #30666]  INFO -- :   Rendering interview_mailer/interview_notification.html.erb within layouts/mailer
+I, [2020-05-28T02:48:18.934302 #30666]  INFO -- :   Rendered interview_mailer/interview_notification.html.erb within layouts/mailer (Duration: 3.1ms | Allocations: 119)
+I, [2020-05-28T02:48:18.937285 #30666]  INFO -- :   Rendering interview_mailer/interview_notification.html.erb within layouts/mailer
+I, [2020-05-28T02:48:18.937577 #30666]  INFO -- :   Rendered interview_mailer/interview_notification.html.erb within layouts/mailer (Duration: 0.1ms | Allocations: 6)
+D, [2020-05-28T02:48:18.939336 #30666] DEBUG -- : InterviewMailer#interview_notification: processed outbound mail in 15.5ms
+I, [2020-05-28T02:48:18.948141 #30666]  INFO -- : Delivered mail 5eced91ae5d8b_77ca126c42851d@yatharth-inspiron5558.mail (8.3ms)
+D, [2020-05-28T02:48:18.948642 #30666] DEBUG -- : Date: Thu, 28 May 2020 02:48:18 +0530
+From: InterviewNow@gmail.com
+To: y.s.saxena7@gmail.com
+Message-ID: <5eced91ae5d8b_77ca126c42851d@yatharth-inspiron5558.mail>
+Subject: Reminder Interview Scheduled
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    This is to remind you that you have interview after 30 minutes from 2020-05-28 04:00:00 UTC to 2020-05-28 05:00:00 UTC
+  </body>
+</html>
+
+I, [2020-05-28T02:49:45.962865 #30666]  INFO -- :   Rendering interview_mailer/interview_notification.html.erb within layouts/mailer
+I, [2020-05-28T02:49:45.963684 #30666]  INFO -- :   Rendered interview_mailer/interview_notification.html.erb within layouts/mailer (Duration: 0.1ms | Allocations: 7)
+I, [2020-05-28T02:49:45.967832 #30666]  INFO -- :   Rendering interview_mailer/interview_notification.html.erb within layouts/mailer
+I, [2020-05-28T02:49:45.968209 #30666]  INFO -- :   Rendered interview_mailer/interview_notification.html.erb within layouts/mailer (Duration: 0.1ms | Allocations: 6)
+D, [2020-05-28T02:49:45.970985 #30666] DEBUG -- : InterviewMailer#interview_notification: processed outbound mail in 9.0ms
+I, [2020-05-28T02:49:45.978490 #30666]  INFO -- : Delivered mail 5eced971edeb3_77ca1278c286c4@yatharth-inspiron5558.mail (7.3ms)
+D, [2020-05-28T02:49:45.978580 #30666] DEBUG -- : Date: Thu, 28 May 2020 02:49:45 +0530
+From: InterviewNow@gmail.com
+To: y.s.saxena7@gmail.com
+Message-ID: <5eced971edeb3_77ca1278c286c4@yatharth-inspiron5558.mail>
+Subject: Reminder Interview Scheduled
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      /* Email styles need to be inline */
+    </style>
+  </head>
+
+  <body>
+    This is to remind you that you have interview after 30 minutes from 2020-05-28 04:00:00 UTC to 2020-05-28 05:00:00 UTC
+  </body>
+</html>
+
